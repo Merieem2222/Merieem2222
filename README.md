@@ -185,15 +185,6 @@ Prediction du prix du Bitcoin par series temporelles et Machine Learning.
 </td>
 <td align="center" width="50%">
 
-### Marketplace Gaming
-Plateforme e-commerce d'occasion pour produits gaming electroniques.
-
-`HTML` `CSS` `JavaScript` `PHP`
-
-[Voir le projet](https://github.com/Merieem2222/Marketplace)
-
-</td>
-</tr>
 </table>
 
 </div>

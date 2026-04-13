@@ -185,6 +185,15 @@ Prediction du prix du Bitcoin par series temporelles et Machine Learning.
 </td>
 <td align="center" width="50%">
 
+### Marketplace Gaming
+Plateforme e-commerce d'occasion pour produits gaming electroniques.
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+[Voir le projet](https://github.com/Merieem2222/Marketplace)
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -195,9 +204,11 @@ Prediction du prix du Bitcoin par series temporelles et Machine Learning.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Merieem2222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merieem2222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merieem2222&theme=tokyonight" width="95%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merieem2222&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merieem2222&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Merieem2222&theme=tokyonight" width="32%"/>
 
 </div>
 
@@ -208,5 +219,7 @@ Prediction du prix du Bitcoin par series temporelles et Machine Learning.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Merieem2222.Merieem2222&color=A78BFA)
+
+### Merci pour votre visite !
 
 </div>

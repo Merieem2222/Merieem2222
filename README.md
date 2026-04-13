@@ -185,32 +185,14 @@ Prediction du prix du Bitcoin par series temporelles et Machine Learning.
 </td>
 <td align="center" width="50%">
 
-### Marketplace Gaming
-Plateforme e-commerce d'occasion pour produits gaming electroniques.
 
-`HTML` `CSS` `JavaScript` `PHP`
-
-[Voir le projet](https://github.com/Merieem2222/Marketplace)
-
-</td>
-</tr>
 </table>
 
 </div>
 
 ---
 
-## Stats GitHub
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Merieem2222&theme=tokyonight" width="95%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Merieem2222&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Merieem2222&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Merieem2222&theme=tokyonight" width="32%"/>
-
-</div>
 
 ---
 
